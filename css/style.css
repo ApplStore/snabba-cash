@@ -10,7 +10,7 @@
 
 /*Background*/
 body {
-    background-image: url(/media/img/500sek.jpeg);
+    background-image: url(../media/img/500sek.jpeg);
     background-color: rgba(0, 0, 0, 0.7);
     background-blend-mode: color;
     background-attachment: fixed;
